@@ -9,7 +9,7 @@
 
 ### 🍒 CONTACT ME 
 <!-- 
-instagram GMAIL
+instagram    GMAIL 
  --> 
  
 <!--
