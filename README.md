@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-decorate my profile.
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=CXXERRY%20&fontSize=80)
 
 ### 💻SKILLS
