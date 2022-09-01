@@ -10,10 +10,9 @@ Hi there 👋
 
 <p align="center">
  <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=JAVA&logoColor=white"/>     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+ <br>
 
-![cxxerry's github stats](https://github-readme-stats.vercel.app/api?username=cxxerry&show_icons=true&theme=tokyonight)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chj75200)](https://solved.ac/chj75200/)
+![cxxerry's github stats](https://github-readme-stats.vercel.app/api?username=cxxerry&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chj75200)](https://solved.ac/chj75200/)
 
 <!-- ### 🍒 CONTACT ME --> 
 
